@@ -1,8 +1,8 @@
 # Test Case Samples
 
-Below are some Test Case samples that I wrote while working on previous projects.
+Below are some Test Case samples that I wrote.
 
--------------------------------
+------------------------------
 
 **Title:**
 Test login with correct credentials
